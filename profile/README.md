@@ -1,12 +1,36 @@
-## Hi there 👋
+# JOM Business and Manufacturing Process Management System
 
-<!--
+Welcome to the JOM Business and Manufacturing Process Management System! This system is designed to manage and automate the supplying, manufacturing, and sales processes for a local virgin coconut oil manufacturer, enhancing operational efficiency. 🌴✨
 
-**Here are some ideas to get you started:**
+## Repositories:
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+This organization comprises four primary repositories:
+
+- **Backend:** Contains Java servlets code responsible for core functionalities and data management.
+- **Frontend (web):** Holds the frontend (web) code, built with HTML, CSS, and JS.
+- **Mobile-Supplier:** Contains the supplier’s Android mobile application, developed with XML and Kotlin.
+- **Mobile-Collector:** Houses the collector’s Android mobile application, developed with XML and Kotlin.
+
+## System Overview:
+
+This system empowers stakeholders involved in the virgin coconut oil manufacturing process with a range of features, including:
+
+- **Efficient Harvest Management:** Manage suppliers’ supply requests for pickups and deliveries, handle locations, and track collections.
+- **Streamlined Logistics:** Stock managers can assign collectors, visualize routes, and allocate coconuts to yards.
+- **Enhanced Production and Sales:** Production managers can request raw materials for production, create new production batches, and update the final product status. Sales managers can manage product allocation and track revenue.
+- **Seamless Communication:** Real-time chat functionalities facilitate efficient communication between the company and suppliers.
+- **Data Transparency:** Real-time coconut amount validation ensures data accuracy and trust.
+- **Enhanced Decision-Making:** Interactive data visualizations provide faster and more responsive decision-making.
+
+## Getting Started:
+
+To get started with each component, refer to the respective repository:
+
+- [Backend Repository](https://github.com/GroupProject-JOM/Backend)
+- [Frontend (Web) Repository](https://github.com/GroupProject-JOM/Frontend-web-)
+- [Mobile-Supplier Repository](https://github.com/GroupProject-JOM/Mobile-Supplier)
+- [Mobile-Collector Repository](https://github.com/GroupProject-JOM/Mobile-Collector)
+
+Feel free to explore each repository for detailed documentation and setup instructions.
+
+
