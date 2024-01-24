@@ -1,6 +1,9 @@
 # JOM Business and Manufacturing Process Management System
 
-Welcome to the JOM Business and Manufacturing Process Management System! This system is designed to manage and automate the supplying, manufacturing, and sales processes for a local virgin coconut oil manufacturer, enhancing operational efficiency. 🌴✨
+Presenting a system to manage and automate the supplying, manufacturing, and sales processes of a local virgin coconut oil manufacturer to make their operations smoother and boost efficiency. 🌴✨
+
+This solution is designed with mobile applications alongside a web application using a client-server architecture. 💻📱
+
 
 ## Repositories:
 
