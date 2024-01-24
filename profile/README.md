@@ -25,6 +25,13 @@ This system empowers stakeholders involved in the virgin coconut oil manufacturi
 - **Data Transparency:** Real-time coconut amount validation ensures data accuracy and trust.
 - **Enhanced Decision-Making:** Interactive data visualizations provide faster and more responsive decision-making.
 
+
+## Upcoming Releases
+
+- IOS application for supplier
+- E-commerce platform for web application
+
+
 ## Getting Started:
 
 To get started with each component, refer to the respective repository:
