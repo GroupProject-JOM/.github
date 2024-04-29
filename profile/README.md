@@ -4,9 +4,9 @@ Presenting a system to manage and automate the supplying, manufacturing, and sal
 
 This solution is designed with mobile applications alongside a web application using a client-server architecture. 💻📱
 
-|  [Web](https://jom-dev.duckdns.org)  | [Collector App](https://jom-dev.duckdns.org) | [Supplier App](https://jom-dev.duckdns.org) |
+|  [Web](https://jom-dev.duckdns.org)  | [Collector App](https://github.com/GroupProject-JOM/Mobile-Collector/releases/download/v1.1.0/JOM.apk) | [Supplier App](https://github.com/GroupProject-JOM/Mobile-Supplier/releases/download/v0.1.0/JOM.apk) |
 |  :-:  | :-: | :-: |
-|   <a href="https://jom-dev.duckdns.org" target="_blank"> <img src="https://github.com/GroupProject-JOM/Frontend-web-/blob/dev/common/img/web_qr.png" height="200px"></a>   | <a href="https://jom-dev.duckdns.org" target="_blank"> <img src="https://github.com/GroupProject-JOM/Frontend-web-/blob/dev/common/img/collector_qr.png" height="200px"></a> | <a href="https://jom-dev.duckdns.org" target="_blank"> <img src="https://github.com/GroupProject-JOM/Frontend-web-/blob/dev/common/img/collector_qr.png" height="200px"></a> |
+|   <a href="https://jom-dev.duckdns.org" target="_blank"> <img src="https://github.com/GroupProject-JOM/Frontend-web-/blob/main/common/img/web_qr.png" height="200px"></a>   | <a href="https://github.com/GroupProject-JOM/Mobile-Collector/releases/download/v1.1.0/JOM.apk" target="_blank"> <img src="https://github.com/GroupProject-JOM/Frontend-web-/blob/main/common/img/collector_qr.png" height="200px"></a> | <a href="https://github.com/GroupProject-JOM/Mobile-Supplier/releases/download/v0.1.0/JOM.apk" target="_blank"> <img src="https://github.com/GroupProject-JOM/Frontend-web-/blob/main/common/img/supplier_qr.png" height="200px"></a> |
 
 ## Repositories:
 
